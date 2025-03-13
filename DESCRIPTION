@@ -5,8 +5,8 @@ Authors@R: c(
     person("Iztok Jr.", "Fister", role = c("aut", "cre", "cph"),
 	email = "iztok@iztok.space",
 	comment = c(ORCID = "0000-0002-6418-1272")))
-Description: NarmViz provides visualization tools for numerical association rules 
-    derived from transactional datasets. It supports numerical and categorical 
+Description: Framework provides visualization tools for numerical association rules
+    derived from transactional datasets. It supports numerical and categorical
     attribute visualization and time-series data representation for
     rule-based insights.
 Depends: R (>= 3.5.0)
